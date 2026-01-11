@@ -1,4 +1,3 @@
-```markdown
 # 🦊 猛兽派对钓鱼辅助工具（Party Animals Fishing Helper）
 
 > ⚠️ **本项目仅供个人学习与研究使用，禁止用于商业用途或干扰他人游戏体验。请遵守游戏规则和社区准则。**
@@ -90,5 +89,3 @@ pip install opencv-python numpy pyautogui mss pygetwindow keyboard Pillow pywin3
 ---
 
 > 🦊 狐狐说：钓鱼虽好，可不要贪杯哦～记得适时休息！
-
-也可以告诉我，我可以继续帮你完善！
