@@ -1,0 +1,17 @@
+# 打包产物 
+dist/ 
+build/ 
+*.exe 
+ 
+# Python 缓存 
+__pycache__/ 
+*.pyc 
+*.spec 
+ 
+# 虚拟环境 
+*_env/ 
+venv/ 
+ 
+# 系统文件 
+Thumbs.db 
+.DS_Store 
